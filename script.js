@@ -47,7 +47,7 @@ function updateTime() {
     if (isPomodoro) {
         pomodoroTime.textContent = "25:00"; 
     } else {
-        pomodoroTime.textContent = "5:00"; 
+        pomodoroTime.textContent = "05:00"; 
     };
 };
 
